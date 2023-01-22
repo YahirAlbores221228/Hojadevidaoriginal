@@ -1,0 +1,24 @@
+footer{
+display: flex;
+border: 1px black solid;
+align-items: center;
+justify-content:center;
+text-align: center;
+min-width: 80%;
+}
+.escue{
+border-radius: 0%;
+width: 15%;
+}
+.corre{
+border-radius: 0%;
+width: 15%;
+}
+.domici{
+border-radius: 0%;
+width: 15%;
+}
+.tele{
+border-radius: 0%;
+width: 15%;
+}
