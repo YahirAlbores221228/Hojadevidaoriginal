@@ -1,4 +1,4 @@
-import { data } from "../../Data/data";
+import {data} from "../../Data/data";
 import '../../assets/Styles/footer.css'
 import colegio from "../../assets/img/colegio.png";
 import correo from "../../assets/img/correo.png"
@@ -6,7 +6,6 @@ import casa from "../../assets/img/hogar.png"
 import telefono from "../../assets/img/telefono.png"
 function Contacto() {
     return ( 
-
 <footer>
 <div className="escuela">
 <img className="escue" src={colegio} alt="" />
@@ -24,7 +23,6 @@ function Contacto() {
 <img className="tele" src={telefono} alt="" />
 <h4>{data.contacto.telefono}</h4>
 </div>
-
 </footer>
  );
 }

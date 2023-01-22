@@ -1,9 +1,10 @@
 .Container-mi{
+display: flex;
+flex-direction: column;
 text-align: center;
+align-items: center;
 font-size: 23px;
 width: 50%;
-padding: 2px;
-
 }
 img{
 width: 40%;

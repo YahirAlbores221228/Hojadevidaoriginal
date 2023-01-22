@@ -1,4 +1,4 @@
-import { data } from "../../Data/data";
+import {data} from "../../Data/data";
 import '../../assets/Styles/Educacion.css'
 function Educacion() {
     return ( 

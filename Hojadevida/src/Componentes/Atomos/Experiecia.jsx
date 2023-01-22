@@ -1,5 +1,5 @@
-import { data } from "../../Data/data";
-import '../../assets/Styles/expere.css'
+import {data} from "../../Data/data";
+import '../../assets/Styles/Experiencia.css'
 function Experiencia() {
     return ( 
 <section className="Container-experiencia">
@@ -12,7 +12,6 @@ function Experiencia() {
 <p>{data.Experiencia.description2}</p>
 </ul>
 </section>
-
  );
 }
 

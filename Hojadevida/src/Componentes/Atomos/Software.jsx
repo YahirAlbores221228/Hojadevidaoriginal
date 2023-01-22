@@ -1,9 +1,9 @@
-import { data } from "../../Data/data";
+import {data} from "../../Data/data";
 import '../../assets/Styles/Software.css'
 function Software() {
     return ( 
 <section className="Container-software">
-<h1 className="title">{data.software.title}</h1>
+<h1 className="tile">{data.software.title}</h1>
 <hr />
 <ul>
 <li>{data.software.softw1}</li>

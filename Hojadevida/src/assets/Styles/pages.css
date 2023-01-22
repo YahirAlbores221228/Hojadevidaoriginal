@@ -1,11 +1,12 @@
 .flex{
-
 background: rgb(238,174,202);
 background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-flex-direction: column;
 min-width: 1000px;
-max-width: 1000px;
 border: 1px  black solid;
 margin: 2em;
 font-family: Arial, Helvetica, sans-serif;
+}
+hr{
+width: 300px;
+border: 1px solid rgb(0, 132, 255);
 }
